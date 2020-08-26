@@ -10,4 +10,5 @@
 
 ### Connect with me
 
-[<img align="left" href="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [https://www.linkedin.com/in/siala-marwa-267180169/]
+[<img align="left" href="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/siala-marwa-267180169/
