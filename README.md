@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Marwa - Software Engineer & Fullstack developer 👋
 
-<!--
-**marwaronron/marwaronron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on new Angular mobile application.
+- 🌱 I’m currently learning React Native.
+- 👯 I’m looking to collaborate on innovative ideas.
+- 💬 Ask me about mobile development 
+- 😄 2020 Goals: Contribute to more Open Source projects.
+- ⚡ Fun fact: I love yoga, drawing and cats 😻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[ <img align="left" alt="" | LinkedIn width="22px"src="https://www.linkedin.com/in/siala-marwa-267180169/" />] [linkedin]
